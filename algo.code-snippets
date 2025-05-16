@@ -3468,6 +3468,8 @@
       "#pragma GCC optimize(\"Ofast\")",
       "#include<bits/stdc++.h>",
       "using namespace std;",
+      "#define nl '\\n'",
+      "#define sp ' '",
       "using ll = int64_t;",
       "#define int ll",
       "#define all(v) begin(v), end(v)",
