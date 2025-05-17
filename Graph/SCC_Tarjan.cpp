@@ -3,7 +3,7 @@ Find Stronly Connected Components
 Tarjan's algorithm
 O(V+E)
 test: https://atcoder.jp/contests/practice2/submissions/53219246
-latest version: https://github.com/Pentagon03/Algorithms/blob/master/Graphs/SCC_Tarjan.cpp
+latest version: https://github.com/KyungmoKu/Algorithms
 */
 struct scc_graph{
     using vi = vector<int>;

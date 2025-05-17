@@ -1,5 +1,4 @@
 # 스트레스 테스트 스크립트
-- [코드 링크](https://github.com/Pentagon03/Algorithms/blob/master/Etc/StressTest/stress.py)
 - 원하는 코드를 올바른 출력과 자동으로 비교하는 스트레스 테스터입니다.
 - 이 코드는 Windows11에서 테스트 되었습니다.
 - 자유롭게 파일을 수정해도 됩니다. 배포 시 이 파일을 출처로 남겨 주세요.

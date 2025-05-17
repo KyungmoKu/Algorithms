@@ -1,6 +1,5 @@
 /**
  * Title: "Min" Persistent Leftist Heap
- * Repository: https://github.com/Pentagon03/Algorithms/blob/master/Data%20Structure/persistent_leftist_heap.cpp
  * Concept: https://en.wikipedia.org/wiki/Leftist_tree
  * Code Reference: nor( https://judge.yosupo.jp/submission/87297 )
  */

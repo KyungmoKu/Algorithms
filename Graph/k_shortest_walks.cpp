@@ -1,11 +1,11 @@
-// [Persistent Leftist Heap](https://github.com/Pentagon03/Algorithms/blob/master/Data%20Structure/persistent_leftist_heap.cpp) Here
+// [Persistent Leftist Heap](https://github.com/KyungmoKu/Algorithms/blob/3072f7fc9bfc7450ed5534c257976f88a5d39cae/Data%20Structure/persistent_lefitist_heap.cpp) Here
 
 // $1
 
 /**
  * Title: K Shortest Walks using Eppstein98(https://ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf)
  * You can get K shortest distances and recover full path for any k_th walk (0-based)
- * Repository: https://github.com/Pentagon03/Algorithms/blob/master/Graph/k_shortest_walks.cpp
+ * Repository: https://github.com/KyungmoKu/Algorithms
  * Reference: nor( https://judge.yosupo.jp/submission/87297 )
  */
 

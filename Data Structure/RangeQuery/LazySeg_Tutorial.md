@@ -11,7 +11,7 @@
 - `upd(l, r, f) : i \in [l, r], A[i] => f(A[i])`
 - `qry(l, r) : op(A[l], ... , A[r])`
 - (optional) template: `LazySeg<S, e, op, F, id, mapping, composition>`
-- Tutorial(+Beats): https://github.com/Pentagon03/Algorithms/blob/master/Data%20Structure/RangeQuery/LazySeg_Tutorial.md
+- Tutorial(+Beats): LazySeg_Tutorial.md in the same folder
 
 # SegTree Beats Tutorial
 ## mapping to try_mapping
@@ -23,7 +23,7 @@
 
 # Dynamic Lazy Segtree
 - same convention with LazySeg
-- Lazy Seg Tutorial: https://github.com/Pentagon03/Algorithms/blob/master/Data%20Structure/RangeQuery/LazySeg_Tutorial.md
+- Lazy Seg Tutorial: LazySeg_Tutorial.md in the same folder
 - `DynamicLazySeg seg(Range l, Range r);`
 - If you need index information, consider one of following
     - 1. modify `make` function to put info.

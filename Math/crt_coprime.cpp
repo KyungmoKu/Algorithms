@@ -1,6 +1,6 @@
 /*
 put "ext_gcd and inv" here
-https://github.com/Pentagon03/Algorithms/blob/master/Math/ext_gcd%26inv.cpp
+https://github.com/KyungmoKu/Algorithms
 */
 
 /*

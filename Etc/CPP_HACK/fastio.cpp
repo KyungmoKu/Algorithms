@@ -1,6 +1,5 @@
 /**
  * FASTIO
- * https://github.com/Pentagon03/Algorithms/blob/master/Etc/fastio.cpp
  * Just use as if we use cin, cout. + u dont have to get rid of cin.tie(0)->sync_with_stdio(0);
  * call cout.setprecision(prec) for double precision. default is 6
  * __int128_t -> input or print is ok

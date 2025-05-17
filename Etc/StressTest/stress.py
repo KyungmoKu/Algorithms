@@ -1,6 +1,6 @@
 '''
 # Stress Tester
-사용법: https://github.com/Pentagon03/Algorithms/blob/master/Etc/StressTest/stress_test_guide.md
+사용법: 같은 폴더의 stress_test_guide.md
 '''
 import os
 import sys

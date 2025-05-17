@@ -1,8 +1,8 @@
-// Include => SCC latest version: https://github.com/Pentagon03/Algorithms/blob/master/Graphs/SCC_Tarjan.cpp
+// Include => SCC latest version: https://github.com/KyungmoKu/Algorithms, SCC_Tarjan.cpp or SCC_Kosaraju.cpp
 
 /*
 two_sat
-there should be scc_graph struct on top: https://github.com/Pentagon03/Algorithms/blob/master/Graphs/SCC_Tarjan.cpp
+there should be scc_graph struct on top: https://github.com/KyungmoKu/Algorithms
 reference1: https://github.com/kth-competitive-programming/kactl/blob/main/content/graph/2sat.h
 reference2: https://atcoder.github.io/ac-library/production/document_en/twosat.html
 test: https://atcoder.jp/contests/practice2/submissions/53219502

@@ -2,7 +2,7 @@
  * Used in [alignasm project](https://github.com/ACCtools/alignasm). Refer it for latest code.
  * Title: K Shortest Walks using Eppstein98(https://ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf) 
  * You can get K shortest distances and recover full path for any k_th walk (0-based)
- * Repository: https://github.com/Pentagon03/Algorithms/blob/master/Graph/k_shortest_walks_alignasm.cpp
+ * Repository: https://github.com/KyungmoKu/Algorithms/blob/3072f7fc9bfc7450ed5534c257976f88a5d39cae/Graph/k_shortest_walks_alignasm.cpp
  * Reference: nor( https://judge.yosupo.jp/submission/87297 )
  */
 

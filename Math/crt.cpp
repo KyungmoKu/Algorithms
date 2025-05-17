@@ -3,7 +3,7 @@ CRT that can handle every case
 reference: https://qoj.ac/submission/30536
 */
 
-// PUT EXT_GCD HERE: https://github.com/Pentagon03/Algorithms/blob/master/Math/ext_gcd%26inv.cpp
+// PUT EXT_GCD HERE: https://github.com/KyungmoKu/Algorithms
 
 // using lll = __int128_t;
 struct cong{ll a, m;}; // a mod m

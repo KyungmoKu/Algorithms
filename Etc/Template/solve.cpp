@@ -1,4 +1,3 @@
-// https://github.com/Pentagon03/Algorithms
 #pragma GCC optimize("Ofast", "unroll-loops")
 // #pragma GCC target("avx2", "popcnt") // for bitset
 #include"bits/stdc++.h"
