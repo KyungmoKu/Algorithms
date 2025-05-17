@@ -2,7 +2,7 @@
 - These codes are for problem solving and internet-based competitions.
 - Warning: There are ideas and implementations that I don't own. Some are almost exactly same. Go to the reference links for the original creator.
 - If you don't want your code to be here, please contact here. 
-- Email: pentagon03.codes@gmail.com / Discord: pentagon03
+  - Email: pentagon03.codes@gmail.com / Discord: pentagon03
 
 # References
 - https://github.com/the-tourist/algo/tree/master  
