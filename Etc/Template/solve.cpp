@@ -29,7 +29,7 @@ int32_t main(){
     int tc = 1;
     // cin >> tc;
     auto solve_tc = [&](){
-        // ${0}
+        ${0}
     };
     for(cur_tc=1;cur_tc<=tc;cur_tc++) solve_tc();
     return 0;
